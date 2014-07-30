@@ -22,8 +22,8 @@ The following informations are displayed automatically:
 
 * Genre
 
-Example:
 
+Example:
 ![](CMD-article.png)
 
 	 

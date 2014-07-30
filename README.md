@@ -12,7 +12,7 @@ Installation
 * A popup will show up. Just click on "Install". That's it!
 
 
-USAGE
+Usage
 ===========
 When the script is installed, navigate to an article page like this [one](http://le-club-des-mangeurs-de-disques.blogspot.fr/2014/07/bob-drake-skull-mailbox-and-other.html).
 The following informations are displayed automatically:
@@ -23,6 +23,7 @@ The following informations are displayed automatically:
 * Genre
 
 Example:
+
 ![](CMD-article.png)
 
 	 

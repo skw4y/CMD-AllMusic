@@ -27,7 +27,7 @@ Example:
 	 
 Contact
 =======
-You can contact me at: string.Format("{0}#{1}","contact","skway.fr").Replace("#","@");
+You can contact me at: string.Format("{0}#{1}","its.skway","gmail.com").Replace("#","@");
 
 Donations are welcome:
 - BTC: 174Eud8voesGp3YcpzjZJGjcjYAr2V42fH
